@@ -5,7 +5,7 @@
 - Hệ điều hành Windows
 - MS Word 2010 (các bản mới hơn chắc là cũng dùng được)
 - [Python](https://www.python.org/downloads/) + `pip install PyMuPDF python-docx pywin32`
-- [ghostscript](https://ghostscript.com/releases/gsdnld.html) (Không bắt buộc nhưng nên cài)
+- [ghostscript](https://ghostscript.com/releases/gsdnld.html) (Không cần cài nếu không dùng thính năng gắn tài liệu của `pdfsplit.py`)
 
 
 ### `pdfsplit.py`: cắt mỗi trang PDF hai cột thành hai trang PDF một cột
